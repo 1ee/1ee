@@ -1,60 +1,47 @@
-███████╗ █████╗ ██╗███████╗ █████╗ ██╗     
-██╔════╝██╔══██╗██║██╔════╝██╔══██╗██║     
-█████╗  ███████║██║███████╗███████║██║     
-██╔══╝  ██╔══██║██║╚════██║██╔══██║██║     
-██║     ██║  ██║██║███████║██║  ██║███████╗
-╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
+<h1 align="center">Faisal</h1>
+<p align="center">
+  <b>Backend Developer & Cybersecurity</b><br>
+  <i>Building scalable, efficient, and secure systems.</i>
+</p>
 
-> Backend Developer & Cybersecurity
-> Building scalable, efficient, and secure systems.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1ee&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ee&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-────────────────────────────────────────────
+---
 
-[ ABOUT_ME ]
+## 🧠 About Me
 
-- Backend Developer focused on APIs & system design
-- Security-first mindset — building with protection in mind
-- Performance-driven — clean, optimized, reliable code
-- Deep interest in how systems work internally
+- Backend Developer focused on APIs & system design  
+- Security-first mindset  
+- Performance-driven, clean architecture  
+- I like understanding systems deeply  
 
-────────────────────────────────────────────
+---
 
-[ TECH_STACK ]
+## 🚀 Tech Stack
 
-Languages   :: JavaScript | Python
-Backend     :: Node.js | Express
-Databases   :: MongoDB | SQL
-Tools       :: Git | Linux | REST APIs
-Security    :: Secure Coding | Vulnerability Awareness
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,express,mongodb,linux,git" />
+</p>
 
-────────────────────────────────────────────
+---
 
-[ CURRENT_FOCUS ]
+## 🔥 Current Focus
 
-> Scaling backend architectures
-> Improving application security
-> Automation & performance optimization
+- Scaling backend systems  
+- Improving web security  
+- Automation & performance optimization  
 
-────────────────────────────────────────────
+---
 
-[ GITHUB_STATS ]
+## ⚡ Mindset
 
-https://github-readme-stats.vercel.app/api?username=1ee&show_icons=true&theme=tokyonight
+> Build it clean. Secure it properly. Make it fast.
 
-────────────────────────────────────────────
+---
 
-[ MINDSET ]
+## 📫 Contact
 
-"Build it clean. Secure it properly. Make it fast."
-
-────────────────────────────────────────────
-
-[ CONTACT ]
-
-GitHub :: https://github.com/1ee
-
-────────────────────────────────────────────
-
-SYSTEM STATUS :: ONLINE
-SECURITY MODE :: ENABLED
-BUILD STATE   :: STABLE
+- GitHub: https://github.com/1ee
