@@ -1,4 +1,4 @@
-<h1 align="center">FAISAL Alotibi</h1>
+<h1 align="center">FAISAL ALOTIBI</h1>
 <p align="center">
   Backend Developer & Cybersecurity
 </p>
