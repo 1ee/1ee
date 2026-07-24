@@ -11,6 +11,6 @@
 </p>
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=1ee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="140" src="https://gh-stats-gen.vercel.app/api?username=1ee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="140" src="https://gh-stats-gen.vercel.app/api/top-langs/?username=1ee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </p>
