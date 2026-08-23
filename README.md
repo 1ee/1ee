@@ -18,7 +18,3 @@
 
 ### 📌 Featured
 **[secure-url-shortener](https://github.com/1ee/secure-url-shortener)** — Backend API demonstrating JWT refresh rotation, RBAC, rate limiting, and audit logging.
-
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=1ee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</p>
