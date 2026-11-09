@@ -3,7 +3,7 @@
 <p align="center"><sub>Designing secure, scalable systems, and learning to make them smarter.</sub></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Backend+Systems;API+Design;Security+First;Data+%26+AI+for+Security" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Security+First;Data+%26+AI+for+Security" />
 </p>
 
 <p align="center">
